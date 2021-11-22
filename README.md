@@ -2,6 +2,9 @@
 
 ```sh
 cd ~/dotfiles
+
+./install-brew.sh
+
 ./bootstrap.sh
 
 # Git and GitHub configs that should be set manually.
